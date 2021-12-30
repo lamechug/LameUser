@@ -2,7 +2,7 @@
 Gopal this side,
 
 # Technologies
-I am comfortable with the following Technologies.
+Comfortable with:
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
@@ -24,8 +24,9 @@ I am comfortable with the following Technologies.
 ![Debain](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 # Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=gsvprharsha&show_icons=true&theme=midnight-purple) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gsvprharsha&layout=midnight-purple)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LameUser&show_icons=true&theme=midnight-purple) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&layout=midnight-purple)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LameUser&theme=midnight-purple-dark)](https://git.io/streak-stats)
 
 # Find Me On
-![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - Prharsha G<br>
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) - @gsvprharsha
+![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - GOPAL MAHALDAR<br>
