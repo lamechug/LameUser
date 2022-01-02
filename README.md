@@ -1,6 +1,9 @@
 # Hi There👋
 Gopal this side,
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blanka&color=%230FF7A4&vCenter=true&lines=Learning.+.+.+;Coding.+.+.;Implementing.+.+.)](https://git.io/typing-svg)
+
+
 # Technologies
 Comfortable with:
 
@@ -24,7 +27,7 @@ Comfortable with:
 ![Debain](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
 # Github Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LameUser&show_icons=true&theme=midnight-purple) 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LameUser&show_icons=true&theme=midnight-purple)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&layout=midnight-purple)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LameUser&theme=midnight-purple-dark)](https://git.io/streak-stats)
 
