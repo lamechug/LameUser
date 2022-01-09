@@ -31,5 +31,6 @@ Comfortable with:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&layout=midnight-purple)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LameUser&theme=midnight-purple-dark)](https://git.io/streak-stats)
 
-# Find Me On
+<!-- # Find Me On
 ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) - GOPAL MAHALDAR<br>
+-->
