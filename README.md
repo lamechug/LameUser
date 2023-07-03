@@ -26,7 +26,6 @@ Comfortable with:
 
 # Github Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=LameUser&show_icons=true&theme=midnight-purple)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LameUser&layout=midnight-purple)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LameUser&theme=midnight-purple-dark)](https://git.io/streak-stats)
 
 <!-- # Find Me On
