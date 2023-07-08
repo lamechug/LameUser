@@ -1,4 +1,4 @@
-# Hi There👋
+# Hi There
 Gopal this side,
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Blanka&color=%230FF7A4&vCenter=true&lines=Learning.+.+.+;Coding.+.+.;Implementing.+.+.)](https://git.io/typing-svg)
