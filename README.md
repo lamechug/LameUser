@@ -15,9 +15,6 @@ I'm a cyber enthusiast who is willing to collaborate and work in this field. I h
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=LameUser&icon=5&color=3)](https://visitcount.itsvg.in)
 
